@@ -1,0 +1,59 @@
+﻿Request Headers:
+Accept: */*
+Host: localhost:7059
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: pl,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: https://localhost:7059
+Referer: https://localhost:7059/swagger/index.html
+Content-Length: 50
+sec-ch-ua: "Microsoft Edge";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+priority: u=1, i
+
+Response Headers:
+Content-Type: application/problem+json; charset=utf-8
+Date: Sun, 09 Jun 2024 15:40:28 GMT
+Server: Kestrel
+X-Custom-Header: Custom Header Value
+
+Request Headers:
+Accept: */*
+Host: localhost:7059
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: pl,en;q=0.9,en-GB;q=0.8,en-US;q=0.7
+Content-Type: application/json
+Origin: https://localhost:7059
+Referer: https://localhost:7059/swagger/index.html
+Content-Length: 50
+sec-ch-ua: "Microsoft Edge";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+sec-fetch-site: same-origin
+sec-fetch-mode: cors
+sec-fetch-dest: empty
+priority: u=1, i
+
+Response Headers:
+Content-Type: application/problem+json; charset=utf-8
+Date: Sun, 09 Jun 2024 15:40:34 GMT
+Server: Kestrel
+X-Custom-Header: Custom Header Value
+
+Request Header:
+Accept: application/json
+Connection: close
+Host: localhost:7059
+User-Agent: PostmanClient/11.1.25 (AppId=1e180044-9771-4a99-b078-442fb9a7b993)
+Content-Type: application/json
+Referer: http://localhost:5162/graphql
+Content-Length: 312
+
+Response Header:
+
